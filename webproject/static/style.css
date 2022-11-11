@@ -1,0 +1,20 @@
+body{
+background-color:aqua;
+}
+.div{
+ color:red;
+ }
+#div{
+height: 500px;
+width:30%;
+background-color: powderblue;
+margin-left :400px;
+padding-left:30px;
+
+}
+.center {
+margin:auto;
+width:50%;
+border:3px solid green;
+padding:10px;
+}
